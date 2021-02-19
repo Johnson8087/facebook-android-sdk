@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/stcryghost/4f8df818-0fad-49c4-82fa-22c3d03a434c/decf7750-734b-4155-b447-70d52dc81c31/_apis/work/boardbadge/db13fcb3-0f7d-40a0-be91-95fa4dfc4383)](https://dev.azure.com/stcryghost/4f8df818-0fad-49c4-82fa-22c3d03a434c/_boards/board/t/decf7750-734b-4155-b447-70d52dc81c31/Microsoft.RequirementCategory)
 Facebook SDK for Android
 ========================
 
